@@ -7,4 +7,4 @@ A very simple bash script to display a countdown timer in stdout. Requires a arg
 
 Authorship
 ===========
-Script taken from old Unix.com forum post [here](http://www.unix.com/showthread.php?t=98889). I'm putting on Github for easier access for all to share.
+Script taken from old Unix.com forum post [here](http://www.unix.com/showthread.php?t=98889). I'm putting on Github for easier access and for all to share.
